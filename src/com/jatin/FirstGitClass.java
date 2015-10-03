@@ -9,4 +9,8 @@ public class FirstGitClass {
 	void printMethod(){
 		System.out.println("I am learning to work with branches in git");
 	}
+	
+	void webMethod(){
+		System.out.println("This method was added from web.");
+	}
 }
