@@ -30,7 +30,7 @@ public class FirstGitClass {
 		System.out.println("General Comment.");
 	}
 	
-	void webMethod1(){
+	void webMethod2(){
 		System.out.println("General Comment.");
 	}
 }
