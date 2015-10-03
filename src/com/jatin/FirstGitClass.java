@@ -33,4 +33,8 @@ public class FirstGitClass {
 	void localMethod2(){
 		System.out.println("General Comment.");
 	}
+	
+	void webMethod2(){
+		System.out.println("General Comment.");
+	}
 }
