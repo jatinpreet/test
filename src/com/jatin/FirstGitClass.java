@@ -13,4 +13,8 @@ public class FirstGitClass {
 	void webMethod(){
 		System.out.println("This method was added from web.");
 	}
+	
+	void conflictMethod(){
+		System.out.println("This method was added from web to cause a conflict.");
+	}
 }
