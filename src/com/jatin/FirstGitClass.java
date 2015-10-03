@@ -21,4 +21,8 @@ public class FirstGitClass {
 	void conflictMethod(){
 		System.out.println("This method was added from web to cause a conflict.");
 	}
+	
+	void localMethod1(){
+		System.out.println("General Comment.");
+	}
 }
