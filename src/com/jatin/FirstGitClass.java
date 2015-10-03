@@ -17,4 +17,8 @@ public class FirstGitClass {
 	void localMethod(){
 		System.out.println("Local method added after pull.");
 	}
+	
+	void conflictMethod(){
+		System.out.println("This method was added from web to cause a conflict.");
+	}
 }
