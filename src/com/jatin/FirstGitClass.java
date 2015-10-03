@@ -13,4 +13,8 @@ public class FirstGitClass {
 	void webMethod(){
 		System.out.println("This method was added from web.");
 	}
+	
+	void localMethod(){
+		System.out.println("Local method added after pull.");
+	}
 }
